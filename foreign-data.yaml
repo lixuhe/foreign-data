@@ -1,0 +1,6 @@
+
+train: D:\foreign-data\train\images_enhanced
+val: D:\foreign-data\val\images_enhanced
+test: D:\foreign-data\test\images
+nc: 2
+names: ['maogan','bang']
