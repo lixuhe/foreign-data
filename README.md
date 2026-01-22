@@ -1,2 +1,1 @@
-# foreign-data
-
+The primary dataset was derived from CUMT-BelT, with irrelevant images (e.g., gangue and coal) removed through rigorous screening to ensure high relevance. Additionally, a self-collected dataset was incorporated to simulate foreign object images under the working conditions of conveyor belts in metal mines.
